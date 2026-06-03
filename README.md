@@ -54,5 +54,4 @@ Files Included
 Author
 
 Obed Thabang Seloana
-BSc Mathematical Science (Mathematics and Computer Science)
-University of Limpopo
+
